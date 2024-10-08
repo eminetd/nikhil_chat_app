@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627800327489",
+    "project_id": "chat-app-1eaf1",
+    "storage_bucket": "chat-app-1eaf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627800327489:android:2d6d8053b5e3a653318dc0",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wtJH4O4Br6seiQUgzhaZUhMtwv5rtS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627800327489:android:73d1b83c21b6d1a6318dc0",
+        "android_client_info": {
+          "package_name": "com.nikhil.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wtJH4O4Br6seiQUgzhaZUhMtwv5rtS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
